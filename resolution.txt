@@ -1,5 +1,3 @@
-!เตือนความจำ
-
 1. เลิกงานเรียน Course MySQL
 
 2. กลับมา Train Python

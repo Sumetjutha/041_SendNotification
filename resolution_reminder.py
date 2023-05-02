@@ -13,4 +13,4 @@ with open(file, mode='rb') as f:
     text = f.read().decode('utf-8')
     
 pb = Pushbullet(API_KEY)
-push = pb.push_note('Please remember', text)
+push = pb.push_note('!เตือนความจำ...', text)
